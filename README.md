@@ -2,8 +2,6 @@
 
 **A model that predicts loan default risk from applicant data — 97% accuracy, 0.997 AUC — with a live scoring interface for loan officers.**
 
-[🔗 Live Demo](#) · [🎥 60-second walkthrough](#)
-
 ---
 
 ## The Business Problem
